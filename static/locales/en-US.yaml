@@ -847,7 +847,7 @@ Video:
   Save Watched Progress: Save Watched Progress
   Watched Progress Saved: Watched Progress Saved
   Save Video: Save Video
-  Video has been saved: Video has been saved
+  Video has been saved: 'Video has been saved to "{playlistName}"'
   Video has been removed from your saved list: Video has been removed from your saved list
   Open in YouTube: Open in YouTube
   Copy YouTube Link: Copy YouTube Link
