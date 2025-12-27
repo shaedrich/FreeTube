@@ -553,7 +553,6 @@ function addToQuickBookmarkPlaylist() {
     videoData,
   })
 
-  // TODO: Maybe show playlist name
   showToast(t('Video.Video has been saved', { playlistName: quickBookmarkPlaylist.value.playlistName }))
 }
 
