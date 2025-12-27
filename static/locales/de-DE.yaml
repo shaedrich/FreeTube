@@ -750,7 +750,7 @@ Video:
   Started streaming on: Streaming angefangen am
   Streamed on: Gestreamt am
   Video has been removed from your saved list: Video wurde aus deiner Liste der gespeicherten Videos entfernt
-  Video has been saved: Video wurde gespeichert
+  Video has been saved: 'Video wurde in "{playlistName}" gespeichert'
   Save Video: Video speichern
   Sponsor Block category:
     music offtopic: Musik Offtopic
