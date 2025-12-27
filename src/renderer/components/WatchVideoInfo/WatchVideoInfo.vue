@@ -554,7 +554,7 @@ function addToQuickBookmarkPlaylist() {
   })
 
   // TODO: Maybe show playlist name
-  showToast(t('Video.Video has been saved'))
+  showToast(t('Video.Video has been saved', { playlistName: quickBookmarkPlaylist.value.playlistName }))
 }
 
 function removeFromQuickBookmarkPlaylist() {
