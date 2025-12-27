@@ -870,8 +870,7 @@ export default defineComponent({
         videoData,
       })
 
-      // TODO: Maybe show playlist name
-      showToast(this.$t('Video.Video has been saved'))
+      showToast(this.$t('Video.Video has been saved', { playlistName: this.quickBookmarkPlaylist.value.playlistName }))
     },
     removeFromQuickBookmarkPlaylist() {
       this.removeVideo({
